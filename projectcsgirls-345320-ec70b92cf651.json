@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projectcsgirls-345320",
+  "private_key_id": "ec70b92cf651942cbb25dc3c83ae28a714136d79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDbc4mW/5IzR5wW\nz+VfJVXYIazjJBFehPi4WXMC9U99KwT9FDgj4FKb+cGmBxKvCJuXbR6y+kh2p6XD\nMX15cr7nK0Y6BTA9sHfh9u5LzQnwfegCyl+i/SjyaaXuXi8Lqwlvm1geouG107gD\nzwqD+mKEkRQn02vRcsUkaHDvacSeK6QELNBA08HRiQUnJgdip+hnam0WKXZmHkR0\n8MTxamymnSq4im4xrfs5zSQEyjUU2K+X4gGQXoz+OJexYgCGwbowQfu7LPr28gql\ny/VjO6zb7w9AzGGl3Py6j91xm7Lf62ltnsuk62T5mcDp0rvzK94+gO7NwFA46Z1Z\nbo7Sunv1AgMBAAECggEAD1Z9bNjS+pOMNMn2AZbl75O29i8sqZsImTXjRHcpxZlO\noXOa0uMYUv97SePfqe0jlstRJHg6vVRNUR2x492hux16rI51RzKAxoHQOOsNQUpD\nf4JuecFQ7dR1fPoHNr0PDUZhu85tkRxJlbaQSRYkcZiEPJ5ZwEtRvRAxqIIPdHB+\nRcaAtYpEKUrngP12I6+1WPBOmvjGMmExg7T/vQ+ByOiloaoyOPQRHbbBntUbJ90j\nUjJtHuNcdQzfaB2ssJxupiqv3pIa7tL9P3tf1+npJ1Go3F9vF91yu3ny7ZUviHlQ\n1KM3fm1OWPMClLj9Y1HO4ftqAOaNGKySuUBRrOredwKBgQDtowJwZvqCQ9GNt5SE\nWTcTHPiUJ2UFSUuc7M9KKhLEnIGqfANyjG+CD4aemgszWzx9Pw06V4pkbhukp0B6\ne5xWCuT/eQcJG2tHEW/yNnR+k25Ez3sc4QFQGLf4wIa2f6A0FXqtfPAsNaSR/Psn\nqQtRa+WGekRNq00v11JjRL/F9wKBgQDsaMdsc5nUsLo+kxZ+I2jlIIwVuXS05cAT\nxD0eq41DP4qM4L0zo1Pf/EIIBltNHwEmZV1MKiGEgWVUAf6akRr7NWmdQq466JS0\nS6QQLlQoQyXu2kK9RvAKXMg/7cyTNj7lUFBf5tNp0mKVouWZ6sT26XL4+jn6KD8n\nkqacjJRicwKBgQDEd5vhoFIGdtl+qEOCtFvjUnV1z6gmmbWI9QRgVa6UnKxbbhJP\nlyntxrZO1B7kg87b4dAm5w9E/v+dvqWBXkcfn/w59y7I6cFkzVbXUww3Rd7JxxwL\nAT/bn8QiRdJaeePSi9uUKZJLisIX7Kcc4Ba6Z1EpQFbOPA0hu4yjA8jlewKBgQDN\n1YjU523nnpv6QYzS9Leuz4DIpXl0y5lKXJEutAVBqQBUGpUBcdJkcbl4TTiPVFBn\nAtiRqRkXyqXT2Ay6vV51nJLBRr52MezPchB9uiiyCYzsgwKa1DnJe/EqoDx/bDqk\n5CGm7k3ilDgbuwIX2i32IVpmZ0+1e/dI2EnSgh/r+wKBgQCB2IqRImReLG4ZkSto\nX63Ll8+cNbB/740li+PrrJWNEyvl2knnp2i4VVKCUyPeE/BPkRENjjBg3LbRRYpZ\nQlQlHT7VUIG7v0tAIY1kKV93xcXQMI+PrYZuz32ROT1YKjixT1uq47fEi9ePfDZH\nQvFwExxmSnskQEto5wG/sCHZjw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "projectcsgirls@projectcsgirls-345320.iam.gserviceaccount.com",
+  "client_id": "117040232172910615599",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projectcsgirls%40projectcsgirls-345320.iam.gserviceaccount.com"
+}
